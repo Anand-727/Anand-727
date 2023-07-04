@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anantha krishnan
-- 👀 I’m interested in Doing HTML
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML
+- 👀 I’m interested in Doing HTML,css and java
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on HTML,C AND JAVA
 - 📫 How to reach me 
 - Email- a89897752@gmail.com
 
